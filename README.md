@@ -11,6 +11,11 @@ Originally was introduced by erick pulido aka infinite. All hail him. \0/
 
 http://kerbal-space-parts.com/space/modpart-kethane-generator-by-infinite-84.html
 
-I trying to find "not very cheat" setups of generation.
+Goal:
+Try to find "not very cheat" setups of generation.
 
 Sry, m8... :)
+
+
+Installation:
+Put it to GameData directory.

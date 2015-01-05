@@ -14,8 +14,10 @@ http://kerbal-space-parts.com/space/modpart-kethane-generator-by-infinite-84.htm
 Goal:
 Try to find "not very cheat" setups of generation.
 
-Sry, m8... :)
+Sry for introducing "so cheat" mod, m8s... :)
 
 
 Installation:
 Put it to GameData directory.
+
+License - MIT.

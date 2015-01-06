@@ -6,7 +6,9 @@ IO Technologies Research and Manufacturing Center presents:
 Kerbal Space Program Kethane stock-a-like parts.
 
 Consists of stock parts converted and balanced for use with Kethane by IO Technologies.
-Needs Kethane Mod to work. (https://github.com/Majiir/Kethane)
+
+Dependences:
+- Kethane Mod (https://github.com/Majiir/Kethane)
 
 Goal:
 1 - Try to find "not very cheat" setups.

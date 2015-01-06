@@ -1,6 +1,8 @@
 IO Technologies
 =================
 
+IO Technologies Research and Manufacturing Center presents:
+
 Kerbal Space Program Kethane stock-a-like parts.
 
 Consists of stock parts converted and balanced for use with Kethane by IO Technologies.

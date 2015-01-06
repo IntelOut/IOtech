@@ -1,23 +1,25 @@
-Kethane-Generator
+IO Technologies
 =================
 
-Kerbal Space Program Kethane Generator parts.
+Kerbal Space Program Kethane stock-a-like parts.
 
-Consist from 2 parts - small and big kethane generator.
-Needs Kethane Mod to work.
-https://github.com/Majiir/Kethane
+Consists of stock parts converted and balanced for use with Kethane by IO Technologies.
+Needs Kethane Mod to work. https://github.com/Majiir/Kethane
 
-Originally was introduced by erick pulido aka infinite. All hail him. \0/
+Some parts was originally introduced by erick pulido aka infinite.
 
 http://kerbal-space-parts.com/space/modpart-kethane-generator-by-infinite-84.html
 
 Goal:
-Try to find "not very cheat" setups of generation.
-
-Sry for introducing "so cheat" mod, m8s... :)
-
+1 - Try to find "not very cheat" setups.
+2 - Promote the use of Kethane among designers, engineers and pilots aerospace industry across the globe Kerbin. 
 
 Installation:
 Put it to GameData directory.
 
 License - MIT.
+
+Credits and thanks:
+- Kethane discoverer Majiir (https://github.com/Majiir/Kethane)
+- Some parts was originally introduced by erick pulido aka infinite. (http://kerbal-space-parts.com/space/modpart-kethane-generator-by-infinite-84.html)
+

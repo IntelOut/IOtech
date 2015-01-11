@@ -2,6 +2,7 @@ IO Technologies
 =================
 
 ###Kerbal Space Program Kethane stock-a-like parts.
+![IO Technologies](/GameData/IOtech/Flags/iotech.png)
 
 Consists of stock parts converted and balanced for use with Kethane by *IO Technologies*.
 

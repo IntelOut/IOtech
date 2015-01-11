@@ -13,7 +13,7 @@ Consists of stock parts converted and balanced for use with Kethane by *IO Techn
 * Promote the use of Kethane among designers, engineers and pilots aerospace industry across the globe Kerbin. 
 
 ### Installation:
-Put folder **IOtech* into **GameData** directory.
+Put folder **IOtech** into **GameData** directory.
 
 **License** - MIT.
 

@@ -9,8 +9,8 @@ Consists of stock parts converted and balanced for use with Kethane by *IO Techn
 * [Kethane Mod](https://github.com/Majiir/Kethane)
 
 **Goal**:
-1. Try to find "not very cheat" setups.
-2. Promote the use of Kethane among designers, engineers and pilots aerospace industry across the globe Kerbin. 
+* Try to find "not very cheat" setups.
+* Promote the use of Kethane among designers, engineers and pilots aerospace industry across the globe Kerbin. 
 
 ### Installation:
 Put folder *IOtech* to GameData directory.
